@@ -9,7 +9,7 @@
 
 🎓 **Software Engineering Student**  
 💻 **Full-Stack Developer**  
-📍 Sfax, Tunisia
+📍 Sfax, Tunisia  
 
 ---
 
@@ -17,24 +17,13 @@
 
 > *"Turning complex ideas into clean, scalable and smart digital experiences."*
 
-I’m a passionate developer focused on building fast, elegant, reliable and intelligent applications.  
-I love working across the entire stack, from frontend interactions to backend logic and mobile AI-powered features.
+I’m a passionate developer building elegant, reliable, and intelligent applications across web, mobile, and AI-powered platforms.
 
-✨ What I enjoy the most:
+✨ What I enjoy:
 - Crafting modern full-stack applications  
 - Implementing AI/ML and NLP features  
-- Building efficient system architectures  
+- Building scalable system architectures  
 - Solving real-world problems with code  
-
----
-
-## 🧠 What I'm Currently Working On
-
-- 🤖 **Chatbots & NLP**  
-- 📱 **AI-powered mobile apps (Flutter + ML Kit)**  
-- 💻 **Full-stack dev with Next.js / Angular / Node.js**  
-- ⚙️ **Microservices & scalable backends**  
-- ☁️ **Deployment, CI/CD & optimization**
 
 ---
 
@@ -42,44 +31,44 @@ I love working across the entire stack, from frontend interactions to backend lo
 
 ### 🔥 Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
 ### 🌐 Frontend / Backend
 <p align="left">
-  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js" />
-  <img src="https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular" />
-  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-000?style=for-the-badge&logo=springboot" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 </p>
 
 ### 📱 Mobile & AI
 <p align="left">
-  <img src="https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter" />
-  <img src="https://img.shields.io/badge/ML%20Kit-000?style=for-the-badge&logo=google" />
-  <img src="https://img.shields.io/badge/NLP-000?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML%20Kit-FD5726?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-FF6F61?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ### 🗄️ Databases
 <p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" />
-  <img src="https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
 ### 🔧 Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase" />
-  <img src="https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
@@ -97,11 +86,14 @@ I love working across the entire stack, from frontend interactions to backend lo
 ## 📫 Let's Connect
 
 <p align="left">
+  <a href="mailto:malekjbir12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/malek-jbir-818397284/">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/malekjbir">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
